@@ -1,0 +1,47 @@
+<resources>
+    <!-- Strings for student and course-related screens -->
+    <string name="student_name">Student Name</string>
+    <string name="student_email">Student Email</string>
+    <string name="student_matric">Student Matric Number</string>
+    <string name="add_student">Add Student</string>
+    <string name="course_list_description">List of available courses</string>
+    <string name="student_list_description">List of enrolled students</string>
+
+    <!-- Strings for Create Course screen -->
+    <string name="course_code">Course Code</string>
+    <string name="course_name">Course Name</string>
+    <string name="lecturer_name">Lecturer Name</string>
+    <string name="save_course">Save Course</string>
+
+    <!-- New strings (hint strings for input fields) -->
+    <string name="student_name_hint">Enter Student Name</string>
+    <string name="student_email_hint">Enter Student Email</string>
+    <string name="student_matric_hint">Enter Student Matric Number</string>
+    <string name="course_code_hint">Enter Course Code</string>
+    <string name="course_name_hint">Enter Course Name</string>
+    <string name="lecturer_name_hint">Enter Lecturer Name</string>
+    <string name="matric_number">Matric Number</string>
+    <string name="course_list_for_student">List of Courses for Student</string>
+
+    <!-- Add the missing string descriptions -->
+    <string name="student_name_description">The name of the student</string>
+    <string name="student_email_description">The email of the student</string>
+    <string name="student_matric_description">The matric number of the student</string>
+
+    <!-- Add the missing string for student matric number -->
+    <string name="student_matric_number">Matric Number</string>
+
+    <!-- Placeholder text for lorem ipsum -->
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem...
+    </string>
+
+    <!-- Other existing strings -->
+    <string name="app_name">CourseManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add_course">Add Course</string>
+</resources>
